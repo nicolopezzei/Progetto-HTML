@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Previsioni del tempo</title>
+    </head>
+    <body>
+        <h1>Previsioni dei giorni seguenti</h1>
+        <p>In questa pagina, potrai visualizzare le previsioni del tempo fornite da ... fino a 7 giorni.<p>
+    </body>
+</html>

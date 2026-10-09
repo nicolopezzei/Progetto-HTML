@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Titolo</title>
+    </head>
+    <body>
+        <h1>Tracker delle temperature</h1>
+        <p>Questo portale offre diverse possibilità...</p>
+        <h2>indice</h2>
+        <a href="Page1"></a>
+    </body>
+</html>
